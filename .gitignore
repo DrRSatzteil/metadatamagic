@@ -1,0 +1,7 @@
+.conda/*
+.vscode/*
+metadatamagic/logs/*
+metadatamagic.egg-info/*
+modelstorage/*
+test/*
+**/__pycache__/*
